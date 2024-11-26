@@ -3,7 +3,6 @@
 - 💞️ He's looking to collaborate on anything that solves real-world problems
 - 📫 Reach him through his linkedin profile or mail through bsandyofficial@gmail.com
 - 😄 Pronouns: he/him, what else LOL!
-- ⚡ Fun fact: He's into digital world for quite a few years - worked in Generative AI, content creation, virual production
 - Familiar tools
 - Virtual Production : Unreal Engine, Blender, Wonder Studio
 - Media Production: Adobe Photoshop, After Effects, Premiere Pro, Davinci Resolve
