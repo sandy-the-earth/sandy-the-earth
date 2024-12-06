@@ -1,7 +1,7 @@
 - 👋 Hey this is Santhosh Buvaneswari's ReadMe!!
 - 👀 He's a builder who loves solving problems by building solutions around it
 - 💞️ He's looking to collaborate on anything that solves real-world problems
-- 📫 Reach him through his linkedin profile linkedin.com/in/bsandyofficial/ or mail through bsandyofficial@gmail.com
+- 📫 Reach him through his [linkedin profile](https://www.linkedin.com/in/bsandyofficial/) or mail through bsandyofficial@gmail.com
 - 😄 Pronouns: he/him, what else LOL!
 - Familiar tools
 - Virtual Production : Unreal Engine, Blender, Wonder Studio
