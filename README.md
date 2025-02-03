@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Santhosh%20Buvaneswari&fontSize=50&fontAlignY=35&desc=Virtual%20Production%20|%20Creative%20Technology&descAlignY=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Santhosh%20Buvaneswari&fontSize=50&fontAlignY=35&desc=Builder%20|%20Creative%20Design%20|%20Immersive%20Experiences&descAlignY=50" width="100%" />
 </div>
 
 <div align="center">
@@ -81,18 +81,31 @@ Currently serving as a Project Staff at **IIT-Madras**, Santhosh is a dedicated 
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
 
-## 🎨 Creative Portfolio
 
-Explore Santhosh's virtual production works on [ArtStation](https://bsandyofficial.artstation.com/)
+<div align="center">
+  <a href="https://bsandyofficial.artstation.com/">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=header&text=Virtual%20Production%20Portfolio&fontSize=30&animation=twinkling" width="100%" />
+  </a>
+  
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 20px 0;">
+    <img src="https://cdna.artstation.com/p/assets/images/images/080/447/090/large/santhosh-b-ls-vanguardclash-final-0814-ultra.jpg?1727617808" height=250 width=400 alt="Portfolio Preview 1" />
+    <img src="https://cdnb.artstation.com/p/assets/images/images/080/446/935/large/santhosh-b-centaur-shiv.jpg?1727617434" height=250 width=400 alt="Portfolio Preview 2" />
+  </div>
+
+</div>
 
 ## 📈 Development Metrics
 
+<!-- Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bsandy1978&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=808080&icon_color=808080&text_color=ffffff" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bsandy1978&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=808080&ring=808080&fire=808080&currStreakNum=ffffff&sideNums=808080&currStreakLabel=808080&sideLabels=808080&dates=808080" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bsandy1978&bg_color=0d1117&color=00FF00&line=00FFFF&point=FFFFFF&area=true&hide_border=true&gradient=true&area_color=FFFFFF" />
 </div>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bsandy1978&theme=github-dark&hide_border=true&bg_color=0d1117&color=808080&line=808080&point=808080)](https://github.com/bsandy1978)
+<!-- Stats with gradients -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bsandy1978&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=00FF00&text_color=FFFFFF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bsandy1978&hide_border=true&background=0d1117&stroke=00FFFF&ring=00FF00&fire=FFA500&currStreakNum=FFFFFF&sideNums=00FFFF&currStreakLabel=00FF00&sideLabels=00FFFF&dates=FFFFFF" />
+</div>
 
 ## 🤝 Professional Network
 
