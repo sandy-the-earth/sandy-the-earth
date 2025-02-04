@@ -40,7 +40,7 @@ Currently serving as a Project Staff at **IIT-Madras**, Santhosh is a dedicated 
 
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-%23233A51.svg?style=for-the-badge&logo=davinciresolve&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-%23EA77FF.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![After Effects](https://img.shields.io/badge/After%20Effects-%239999FF.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 
 ### Generative AI
 ![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-%23FF6B6B.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0xIDE3aC0ydi0yaDJ2MnptMi4wNy03Ljc1bC0uOS45QzEzLjQ1IDEyLjkgMTMgMTMuNSAxMyAxNWgtMnYtLjVjMC0xLjEuNDUtMi4xIDEuMTctMi44M2wxLjI0LTEuMjZjLjM3LS4zNi41OS0uODYuNTktMS40MSAwLTEuMS0uOS0yLTItMnMtMiAuOS0yIDJIOGMwLTIuMjEgMS43OS00IDQtNHM0IDEuNzkgNCA0YzAgLjg4LS4zNiAxLjY4LS45MyAyLjI1eiIvPjwvc3ZnPg==)
@@ -59,13 +59,14 @@ Currently serving as a Project Staff at **IIT-Madras**, Santhosh is a dedicated 
 ![LM Studio](https://img.shields.io/badge/LM%20Studio-%234B0082.svg?style=for-the-badge&logo=lmstudio&logoColor=white)
 
 ### Design & Creative Tools
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-%230055FF.svg?style=for-the-badge&logo=framer&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ### Programming & Development
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black)
 
@@ -78,6 +79,8 @@ Currently serving as a Project Staff at **IIT-Madras**, Santhosh is a dedicated 
 
 ### Development Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
 
@@ -88,26 +91,25 @@ Currently serving as a Project Staff at **IIT-Madras**, Santhosh is a dedicated 
   </a>
   
   <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 20px 0;">
-    <img src="https://cdna.artstation.com/p/assets/images/images/080/447/090/large/santhosh-b-ls-vanguardclash-final-0814-ultra.jpg?1727617808" height=250 width=400 alt="Portfolio Preview 1" />
-    <img src="https://cdnb.artstation.com/p/assets/images/images/080/446/935/large/santhosh-b-centaur-shiv.jpg?1727617434" height=250 width=400 alt="Portfolio Preview 2" />
+    <img src="https://cdna.artstation.com/p/assets/images/images/080/447/090/large/santhosh-b-ls-vanguardclash-final-0814-ultra.jpg?1727617808" height=250 width=500 alt="Portfolio Preview 1" />
+    <img src="https://cdnb.artstation.com/p/assets/images/images/080/446/935/large/santhosh-b-centaur-shiv.jpg?1727617434" height=250 width=500 alt="Portfolio Preview 2" />
   </div>
 
 </div>
 
 ## 📈 Development Metrics
-
 <!-- Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bsandy1978&bg_color=0d1117&color=00FF00&line=00FFFF&point=FFFFFF&area=true&hide_border=true&gradient=true&area_color=FFFFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bsandy1978&bg_color=0d1117&color=D4AF37&line=FFC300&point=FFD700&area=true&hide_border=true&gradient=true&area_color=2C2C2C" />
 </div>
 
 <!-- Stats with gradients -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bsandy1978&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=00FF00&text_color=FFFFFF" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bsandy1978&hide_border=true&background=0d1117&stroke=00FFFF&ring=00FF00&fire=FFA500&currStreakNum=FFFFFF&sideNums=00FFFF&currStreakLabel=00FF00&sideLabels=00FFFF&dates=FFFFFF" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bsandy1978&show_icons=true&hide_border=true&bg_color=0d1117&title_color=D4AF37&icon_color=FFD700&text_color=A9A9A9" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bsandy1978&hide_border=true&background=0d1117&stroke=D4AF37&ring=FFD700&fire=FFA500&currStreakNum=FFFFFF&sideNums=D4AF37&currStreakLabel=FFD700&sideLabels=D4AF37&dates=A9A9A9" />
 </div>
 
-## 🤝 Professional Network
+## 🤝 Reach Him Through
 
 <div align="center">
 
@@ -115,6 +117,7 @@ Currently serving as a Project Staff at **IIT-Madras**, Santhosh is a dedicated 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/bsandyofficial)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsandyofficial@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/bsandyofficial)
+[![Virtual Card](https://img.shields.io/badge/Virtual-Card-%2331A8FF.svg?style=for-the-badge&logovistaprint&logoColor=white)](https://renderrush.digital.vistaprint.io/s/wxO1Pudi3oWo7lD9Q2JdW)
 
 </div>
 
