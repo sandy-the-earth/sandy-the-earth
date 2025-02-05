@@ -87,12 +87,14 @@ Currently serving as a Project Staff at **IIT-Madras**, Santhosh is a dedicated 
 
 <div align="center">
   <a href="https://bsandyofficial.artstation.com/">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=100&section=header&text=Virtual%20Production%20Portfolio&fontSize=30&animation=twinkling" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=58&section=header&text=Virtual%20Production%20Portfolio&fontSize=19&animation=twinkling" width="100%" />
   </a>
   
   <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 20px 0;">
     <img src="https://cdna.artstation.com/p/assets/images/images/080/447/090/large/santhosh-b-ls-vanguardclash-final-0814-ultra.jpg?1727617808" height=250 width=500 alt="Portfolio Preview 1" />
     <img src="https://cdnb.artstation.com/p/assets/images/images/080/446/935/large/santhosh-b-centaur-shiv.jpg?1727617434" height=250 width=500 alt="Portfolio Preview 2" />
+    <img src="https://cdnb.artstation.com/p/assets/images/images/080/467/863/large/santhosh-b-highresscreenshot000060.jpg?1727677224" height=250 width=500 alt="Portfolio Preview 2" />
+    <img src="https://cdna.artstation.com/p/assets/images/images/080/447/536/large/santhosh-b-dragon-roar.jpg?1727618679" height=250 width=500 alt="Portfolio Preview 2" />
   </div>
 
 </div>
@@ -114,10 +116,10 @@ Currently serving as a Project Staff at **IIT-Madras**, Santhosh is a dedicated 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bsandyofficial)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/bsandyofficial)
+[![Twitter](https://img.shields.io/badge/Twitter-%23313131.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/bsandyofficial)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsandyofficial@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/bsandyofficial)
-[![Virtual Card](https://img.shields.io/badge/Virtual-Card-%2331A8FF.svg?style=for-the-badge&logovistaprint&logoColor=white)](https://renderrush.digital.vistaprint.io/s/wxO1Pudi3oWo7lD9Q2JdW)
+[![VirtualCard](https://img.shields.io/badge/VirtualCard-%2331A8FF.svg?style=for-the-badge&logovistaprint&logoColor=white)](https://renderrush.digital.vistaprint.io/s/wxO1Pudi3oWo7lD9Q2JdW)
 
 </div>
 
