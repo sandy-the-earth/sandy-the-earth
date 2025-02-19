@@ -91,18 +91,12 @@ Currently serving as a Project Staff at **IIT-Madras**, Santhosh is a dedicated 
   </a>
   
   <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 20px 0;">
-    <img src="https://cdna.artstation.com/p/assets/images/images/080/447/090/large/santhosh-b-ls-vanguardclash-final-0814-ultra.jpg?1727617808" height=200 width=425 alt="Portfolio Preview 1" />
-    <img src="https://cdnb.artstation.com/p/assets/images/images/080/446/935/large/santhosh-b-centaur-shiv.jpg?1727617434" height=200 width=425 alt="Portfolio Preview 2" />
-    <img src="https://cdnb.artstation.com/p/assets/images/images/080/467/863/large/santhosh-b-highresscreenshot000060.jpg?1727677224" height=200 width=425 alt="Portfolio Preview 2" />
-    <img src="https://cdna.artstation.com/p/assets/images/images/080/447/536/large/santhosh-b-dragon-roar.jpg?1727618679" height=200 width=425 alt="Portfolio Preview 2" />
+    <img src="https://cdna.artstation.com/p/assets/images/images/080/447/090/large/santhosh-b-ls-vanguardclash-final-0814-ultra.jpg?1727617808" height=190 width=390 alt="Portfolio Preview 1" />
+    <img src="https://cdnb.artstation.com/p/assets/images/images/080/446/935/large/santhosh-b-centaur-shiv.jpg?1727617434" height=190 width=390 alt="Portfolio Preview 2" />
+    <img src="https://cdnb.artstation.com/p/assets/images/images/080/467/863/large/santhosh-b-highresscreenshot000060.jpg?1727677224" height=190 width=390 alt="Portfolio Preview 2" />
+    <img src="https://cdna.artstation.com/p/assets/images/images/080/447/536/large/santhosh-b-dragon-roar.jpg?1727618679" height=190 width=390 alt="Portfolio Preview 2" />
   </div>
 
-</div>
-
-## 📈 Development Metrics
-<!-- Contribution Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bsandy1978&bg_color=0d1117&color=D4AF37&line=FFC300&point=FFD700&area=true&hide_border=true&gradient=true&area_color=2C2C2C" />
 </div>
 
 <!-- Stats with gradients -->
