@@ -20,13 +20,13 @@
 
 ## 🎯 What is he doing?
 
-Currently serving as a Project Staff at **IIT-Madras**, Santhosh is a dedicated builder working on bridging the gap of necessity and access to technology. His expertise spans virtual production, generative AI, low-code development, and digital content creation, positioning him as a versatile innovator bridging technological capabilities with practical solutions.
+Currently serving as a Project Staff at **IIT-Madras**, Santhosh is a dedicated builder working on bridging the gap of necessity and access to technology. His expertise spans across Virtual Production, Generative AI, Llow-code Development, and Digital Content Creation - positioning him as a versatile innovator bridging technological capabilities with practical solutions.
 
 ## 🚀 Professional Focus
 
 * 🎬 **Virtual Experiences** - Specializing in designing immersive experiences, VR motion capture, Unreal Engine LiveLink integration and MetaHumans
-* 🤖 **Generative AI Solutions** - Focusing on UI/UX design automation and development optimization through AI integration
-* 🎨 **Post-Production Excellence** - Creating compelling visual narratives through strategic poster design, sophisticated video compositing, and professional editing
+* 🤖 **Generative AI Solutions** - Utilizing GenAI for process optimization from Ideation, Desgin and Development till Sales, Marketing, Customer Acquisition and handling
+* 🎨 **Post-Production Excellence** - Worked on creating compelling stories, engaging posters and ads for businesses in local community till Unicorn CEOs  
 
 ## 🛠️ Technical Arsenal
 
