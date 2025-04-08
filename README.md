@@ -20,7 +20,7 @@
 
 ## 🎯 What is he doing?
 
-Currently serving as a Project Staff at **IIT-Madras**, Santhosh is a dedicated builder working on bridging the gap of necessity and access to technology. His expertise spans across Virtual Production, Generative AI, Llow-code Development, and Digital Content Creation - positioning him as a versatile innovator bridging technological capabilities with practical solutions.
+Currently building for a **better world**, Santhosh is a dedicated builder working on bridging the gap of necessity and access to technology. His expertise spans across Virtual Production, Generative AI, Llow-code Development, and Digital Content Creation - positioning him as a versatile innovator bridging technological capabilities with practical solutions.
 
 ## 🚀 Professional Focus
 
