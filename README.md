@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Santhosh%20Buvaneswari&fontSize=50&fontAlignY=35&desc=Builder%20|%20Creative%20Design%20|%20Immersive%20Experiences&descAlignY=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Santhosh%20Buvaneswari&fontSize=50&fontAlignY=35&desc=Humane%20Tech|%20Creative%20Design%20|%20Immersive%20Experiences&descAlignY=50" width="100%" />
 </div>
 
 <div align="center">
