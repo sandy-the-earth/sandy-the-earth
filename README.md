@@ -25,7 +25,7 @@ Currently building for a **better world**, Santhosh is a dedicated builder worki
 ## 🚀 Professional Focus
 
 * 🎬 **Virtual Experiences** - Specializing in designing immersive experiences, VR motion capture, Unreal Engine LiveLink integration and MetaHumans
-* 🤖 **Generative AI Solutions** - Utilizing GenAI for process optimization from Ideation, Desgin and Development till Sales, Marketing, Customer Acquisition and handling
+* 🤖 **Generative AI Solutions** - Utilizing Gen-AI for process optimization from Ideation, Desgin and Development till Sales, Marketing, Customer Acquisition and handling
 * 🎨 **Post-Production Excellence** - Worked on creating compelling stories, engaging posters and ads for businesses in local community till Unicorn CEOs  
 
 ## 🛠️ Technical Arsenal
