@@ -105,7 +105,7 @@ Currently building for a **better world**, Santhosh is a dedicated builder worki
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bsandy1978&hide_border=true&background=0d1117&stroke=D4AF37&ring=FFD700&fire=FFA500&currStreakNum=FFFFFF&sideNums=D4AF37&currStreakLabel=FFD700&sideLabels=D4AF37&dates=A9A9A9" />
 </div>
 
-## 🤝 Reach Him Through
+## 🤝 Reach Him Through 
 
 <div align="center">
 
@@ -113,7 +113,7 @@ Currently building for a **better world**, Santhosh is a dedicated builder worki
 [![Twitter](https://img.shields.io/badge/Twitter-%23313131.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/bsandyofficial)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsandyofficial@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/bsandyofficial)
-[![VirtualCard](https://img.shields.io/badge/VirtualCard-%2331A8FF.svg?style=for-the-badge&logovistaprint&logoColor=white)](https://renderrush.digital.vistaprint.io/s/wxO1Pudi3oWo7lD9Q2JdW)
+[![VirtualCard](https://img.shields.io/badge/VirtualCard-%2331A8FF.svg?style=for-the-badge&logovistaprint&logoColor=white)](https://commacards.com/p/sandy)
 
 </div>
 
