@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=unreal,photoshop,davinceresolve,python&theme=dark" alt="Unreal, Photoshop, Premiere Pro, Python" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=unreal,photoshop,python&theme=dark" alt="Unreal, Photoshop, Python" style="margin: 5px;" />
 </div>
 
 <div align="center">
