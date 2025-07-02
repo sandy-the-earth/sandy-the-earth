@@ -16,7 +16,7 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=700&lines=Unreal+Engine+-+Virtual+Production+and+XR+Development;Adobe+Photoshop+-+Posters,+Textures,+UI+designs;Premiere+Pro+-+Video+Editing+and+Compositing;Python+-+Scripting+and+GUI+development;CPP+-+Core+logics,+Fundamentals+and+Unreal+Development" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=700&lines=Product+Development+-+Rapid+prototyping,+Apps+and+Websites;Unreal+Engine+-+Virtual+Production+and+XR+Development;Adobe+Photoshop+-+Posters,+Textures,+UI+designs;Premiere+Pro+-+Video+Editing+and+Compositing;Python+-+Scripting+and+GUI+development;CPP+-+Core+logics,+Fundamentals+and+Unreal+Development" 
     alt="Section Headers" 
   />
 </div>
