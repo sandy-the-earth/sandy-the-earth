@@ -32,7 +32,7 @@ Currently building for a **better world**, Santhosh is a dedicated builder worki
 * 🤖 **Generative AI Solutions** - Utilizing Gen-AI for process optimization from Ideation, Desgin and Development till Sales, Marketing, Customer Acquisition and handling
 * 🎨 **Post-Production Excellence** - Worked on creating compelling stories, engaging posters and ads for businesses in local community till Unicorn CEOs  
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Arsenal 
 
 ### Virtual Production & Metaverse
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
@@ -62,7 +62,7 @@ Currently building for a **better world**, Santhosh is a dedicated builder worki
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-%23FF6B6B.svg?style=for-the-badge&logo=deepseek&logoColor=white)
 ![LM Studio](https://img.shields.io/badge/LM%20Studio-%234B0082.svg?style=for-the-badge&logo=lmstudio&logoColor=white)
 
-### Design & Creative Tools
+### Design & Creative Suite
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
