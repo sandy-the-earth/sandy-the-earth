@@ -24,13 +24,15 @@
 
 ## 🎯 What is he doing?
 
-Currently building for a **better world**, Santhosh is a dedicated builder working on bridging the gap of necessity and access to technology. His expertise spans across Virtual Production, Generative AI, Llow-code Development, and Digital Content Creation - positioning him as a versatile innovator bridging technological capabilities with practical solutions.
+Currently building for a **better world**, Santhosh is a dedicated builder working on bridging the gap of necessity and access to technology. His expertise spans across Virtual Production, Generative AI, Llow-code Development, and Digital Content Creation - positioning him as a versatile innovator bridging technological capabilities with practical solutions. 
 
 ## 🚀 Professional Focus
 
-* 🎬 **Virtual Experiences** - Specializing in designing immersive experiences, VR motion capture, Unreal Engine LiveLink integration and MetaHumans
-* 🤖 **Generative AI Solutions** - Utilizing Gen-AI for process optimization from Ideation, Desgin and Development till Sales, Marketing, Customer Acquisition and handling
-* 🎨 **Post-Production Excellence** - Worked on creating compelling stories, engaging posters and ads for businesses in local community till Unicorn CEOs  
+| 🚀 | What I Do |
+|-----|-----------|
+| 🎬 | **Immersive Virtual Experiences**: VR motion capture, Unreal Engine LiveLink integration and MetaHumans |
+| 🤖 | **Gen-AI Integrations**: for process optimization from Ideation, Desgin and Development till Sales, Marketing, Customer Acquisition and handling |
+| 🎨 | **Post-Production Excellence**: Worked on creating compelling stories, engaging posters and ads for businesses in local community till Unicorn CEOs |
 
 ## 🛠️ Technical Arsenal 
 
@@ -103,9 +105,10 @@ Currently building for a **better world**, Santhosh is a dedicated builder worki
 
 </div>
 
-<!-- Stats with gradients -->
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bsandy1978&show_icons=true&hide_border=true&bg_color=0d1117&title_color=D4AF37&icon_color=FFD700&text_color=A9A9A9" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/bsandy1978?cardType=level&theme=great-gatsby&preferLogin=false" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bsandy1978&hide_border=true&background=0d1117&stroke=D4AF37&ring=FFD700&fire=FFA500&currStreakNum=FFFFFF&sideNums=D4AF37&currStreakLabel=FFD700&sideLabels=D4AF37&dates=A9A9A9" />
 </div>
 
