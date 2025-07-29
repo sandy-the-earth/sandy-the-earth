@@ -107,6 +107,8 @@ Currently building for a **better world**, Santhosh is a dedicated builder worki
 
 ## 📊 GitHub Stats
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 <div align="center">
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/sandy-the-earth?cardType=level&theme=great-gatsby&preferLogin=false" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandy-the-earth&hide_border=true&background=0d1117&stroke=D4AF37&ring=FFD700&fire=FFA500&currStreakNum=FFFFFF&sideNums=D4AF37&currStreakLabel=FFD700&sideLabels=D4AF37&dates=A9A9A9" />
