@@ -108,28 +108,45 @@ Currently building for a **better world**, Santhosh is a dedicated builder worki
 ## 📊 GitHub Stats
 
 <div align="center">
+  <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:18px;align-items:center;max-width:1100px;margin:0 auto;">
 
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/sandy-the-earth?cardType=level&theme=great-gatsby&preferLogin=false" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandy-the-earth&hide_border=true&background=0d1117&stroke=D4AF37&ring=FFD700&fire=FFA500&currStreakNum=FFFFFF&sideNums=D4AF37&currStreakLabel=FFD700&sideLabels=D4AF37&dates=A9A9A9" height="170" />
-  
-  <br><br>
+  <!-- Main consolidated stats -->
+  <img
+      src="https://github-readme-stats.vercel.app/api?username=sandy-the-earth&show_icons=true&theme=great-gatsby&hide_border=true&count_private=true&include_all_commits=true"
+      height="220"
+      alt="GitHub Stats"
+    />
 
-  <img src="https://komarev.com/ghpvc/?username=sandy-the-earth&label=PROFILE+VIEWS&color=FFD700&style=for-the-badge" height="45"/>
+  <!-- Top languages (compact, reliable) -->
+  <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandy-the-earth&layout=compact&theme=great-gatsby&hide_border=true&cache_seconds=1800"
+      height="220"
+      alt="Top Languages"
+    />
 
-</div>
+  <img
+      src="https://streak-stats.demolab.com?user=sandy-the-earth&theme=great-gatsby&hide_border=true"
+      height="220"
+      alt="GitHub Streak"
+    />
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandy-the-earth&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
-      </td>
-      <td width="40"></td>
-      <td align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=sandy-the-earth&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=3" height="170"/>
-      </td>
-    </tr>
-  </table>
+    <!-- Trophies (kept on a single stable theme) -->
+  <img
+      src="https://github-profile-trophy.vercel.app/?username=sandy-the-earth&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=4"
+      height="220"
+      alt="GitHub Trophies"
+    />
+
+  </div>
+
+  <div style="margin-top:14px;">
+    <!-- Profile views tuned to match visual weight -->
+    <img
+      src="https://komarev.com/ghpvc/?username=sandy-the-earth&label=PROFILE+VIEWS&color=FFD700&style=for-the-badge"
+      height="56"
+      alt="Profile Views"
+    />
+  </div>
 </div>
 
 
