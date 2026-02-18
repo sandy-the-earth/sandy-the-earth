@@ -132,6 +132,7 @@ Currently building for a **better world**, Santhosh is a dedicated builder worki
   </table>
 </div>
 
+![Profile Views](https://komarev.com/ghpvc/?username=sandy-the-earth)
 
 ## 🤝 Reach Him Through 
 
