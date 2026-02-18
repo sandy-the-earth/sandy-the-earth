@@ -107,48 +107,32 @@ Currently building for a **better world**, Santhosh is a dedicated builder worki
 
 ## 📊 GitHub Stats
 
+![](./profile-3d-contrib/profile-gitblock.svg)
+
 <div align="center">
-  <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:18px;align-items:center;max-width:1100px;margin:0 auto;">
-
-  <!-- Main consolidated stats -->
-  <img
-      src="https://github-readme-stats.vercel.app/api?username=sandy-the-earth&show_icons=true&theme=great-gatsby&hide_border=true&count_private=true&include_all_commits=true"
-      height="220"
-      alt="GitHub Stats"
-    />
-
-  <!-- Top languages (compact, reliable) -->
-  <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandy-the-earth&layout=compact&theme=great-gatsby&hide_border=true&cache_seconds=1800"
-      height="220"
-      alt="Top Languages"
-    />
-
-  <img
-      src="https://streak-stats.demolab.com?user=sandy-the-earth&theme=great-gatsby&hide_border=true"
-      height="220"
-      alt="GitHub Streak"
-    />
-
-    <!-- Trophies (kept on a single stable theme) -->
-  <img
-      src="https://github-profile-trophy.vercel.app/?username=sandy-the-earth&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=4"
-      height="220"
-      alt="GitHub Trophies"
-    />
-
-  </div>
-
-  <div style="margin-top:14px;">
-    <!-- Profile views tuned to match visual weight -->
-    <img
-      src="https://komarev.com/ghpvc/?username=sandy-the-earth&label=PROFILE+VIEWS&color=FFD700&style=for-the-badge"
-      height="56"
-      alt="Profile Views"
-    />
-  </div>
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/sandy-the-earth?cardType=level&theme=great-gatsby&preferLogin=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandy-the-earth&hide_border=true&background=0d1117&stroke=D4AF37&ring=FFD700&fire=FFA500&currStreakNum=FFFFFF&sideNums=D4AF37&currStreakLabel=FFD700&sideLabels=D4AF37&dates=A9A9A9" />
 </div>
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandy-the-earth&layout=donut" alt="Top Languages" />
+        </a>
+      </td>
+      <td width="50"></td> 
+      <td align="center">
+        <a href="https://sandy-the-earth.github.io/" target="_blank" rel="noopener noreferrer">
+          <img src="https://github-profile-trophy.vercel.app/?username=sandy-the-earth&theme=radical&column=3&row=2&margin-w=15&margin-h=15" alt="Santhosh's GitHub Trophies" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sandy-the-earth)
 
 ## 🤝 Reach Him Through 
 
