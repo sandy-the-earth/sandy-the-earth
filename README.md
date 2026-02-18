@@ -107,31 +107,6 @@ Currently building for a **better world**, Santhosh is a dedicated builder worki
 
 ## 📊 GitHub Stats
 
-![](./profile-3d-contrib/profile-gitblock.svg)
-
-<div align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/sandy-the-earth?cardType=level&theme=great-gatsby&preferLogin=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandy-the-earth&hide_border=true&background=0d1117&stroke=D4AF37&ring=FFD700&fire=FFA500&currStreakNum=FFFFFF&sideNums=D4AF37&currStreakLabel=FFD700&sideLabels=D4AF37&dates=A9A9A9" />
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandy-the-earth&layout=donut" alt="Top Languages" />
-        </a>
-      </td>
-      <td width="50"></td> 
-      <td align="center">
-        <a href="https://sandy-the-earth.github.io/" target="_blank" rel="noopener noreferrer">
-          <img src="https://github-profile-trophy.vercel.app/?username=sandy-the-earth&theme=radical&column=3&row=2&margin-w=15&margin-h=15" alt="Santhosh's GitHub Trophies" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <div align="center">
 
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/sandy-the-earth?cardType=level&theme=great-gatsby&preferLogin=false" height="170" />
@@ -142,6 +117,21 @@ Currently building for a **better world**, Santhosh is a dedicated builder worki
   <img src="https://komarev.com/ghpvc/?username=sandy-the-earth&label=PROFILE+VIEWS&color=FFD700&style=for-the-badge" height="45"/>
 
 </div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandy-the-earth&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+      </td>
+      <td width="40"></td>
+      <td align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=sandy-the-earth&theme=algolia&no-frame=true&margin-w=10&margin-h=10&column=3" height="170"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ## 🤝 Reach Him Through 
 
