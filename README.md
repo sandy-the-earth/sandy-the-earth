@@ -133,8 +133,16 @@ Currently building for a **better world**, Santhosh is a dedicated builder worki
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandy-the-earth&label=PROFILE+VIEWS&color=FFD700&style=flat-square" />
+
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/sandy-the-earth?cardType=level&theme=great-gatsby&preferLogin=false" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandy-the-earth&hide_border=true&background=0d1117&stroke=D4AF37&ring=FFD700&fire=FFA500&currStreakNum=FFFFFF&sideNums=D4AF37&currStreakLabel=FFD700&sideLabels=D4AF37&dates=A9A9A9" height="170" />
+  
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=sandy-the-earth&label=PROFILE+VIEWS&color=FFD700&style=for-the-badge" height="45"/>
+
 </div>
+
 ## 🤝 Reach Him Through 
 
 <div align="center">
