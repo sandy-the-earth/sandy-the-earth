@@ -137,8 +137,8 @@ Currently building for a **better world**, Santhosh is a dedicated builder worki
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bsandyofficial)
-[![Twitter](https://img.shields.io/badge/Twitter-%23313131.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/bsandyofficial)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/santhoshbuvaneswari)
+[![Twitter](https://img.shields.io/badge/Twitter-%23313131.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/bsandyofficial)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsandyofficial@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/bsandyofficial)
 [![VirtualCard](https://img.shields.io/badge/VirtualCard-%2331A8FF.svg?style=for-the-badge&logovistaprint&logoColor=white)](https://commacards.com/p/sandy)
