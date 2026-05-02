@@ -117,12 +117,11 @@ Currently building for a **better world**, Santhosh is a dedicated builder worki
 <div align="center">
   <table>
     <tr>
-      <td align="center">
+      <!-- <td align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandy-the-earth&layout=donut" alt="Top Languages" />
         </a>
-      </td>
-      <td width="50"></td> 
+      </td> -->
       <td align="center">
         <a href="https://sandy-the-earth.github.io/" target="_blank" rel="noopener noreferrer">
           <img src="https://github-profile-trophy.vercel.app/?username=sandy-the-earth&theme=radical&column=3&row=2&margin-w=15&margin-h=15" alt="Santhosh's GitHub Trophies" />
